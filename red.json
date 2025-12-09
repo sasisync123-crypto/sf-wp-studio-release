@@ -1,0 +1,8 @@
+{
+  "name": "sf-wp-studio",
+  "version": "1.0.2",
+  "download_url": "https://gitea.syncfusion.com/syncfusion-wordpress-template/SF-Widget/raw/branch/development/sf-wp-studio-1.0.2.zip",
+  "sections": {
+    "description": "Powerful widget from sfwp team"
+  }
+}
